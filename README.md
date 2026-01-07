@@ -1,4 +1,5 @@
-<img width="461" height="350" alt="Logo" src="https://github.com/user-attachments/assets/9eef10f0-2b11-41d4-b221-392d8213be42" />
+![istockphoto-1304696983-640_adpp_is](https://github.com/user-attachments/assets/dc3682fe-6830-4961-8f47-45f57d08ddb7)
+
 
 # 🌍 Air Quality Index (AQI) Analysis (2015-2025)
 
