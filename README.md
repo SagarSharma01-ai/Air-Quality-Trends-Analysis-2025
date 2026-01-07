@@ -6,7 +6,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-Environmental_Analytics-green)
 
-### 📜 [View Final Analysis Report](AQI%20Analysis%20Report.pdf)
+### 📜 [View Final Analysis Report](PROJECT%20REPORT%20AIR%20QUALITY%20INDEX%20ANALYSIS%202015-2025.pdf)
 
 ---
 
